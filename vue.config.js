@@ -7,7 +7,7 @@ module.exports = {
         }
     },
 
-    publicPath:'/project/'
+    publicPath:'/leapEnglish/'
 
 
   
